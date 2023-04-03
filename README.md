@@ -14,7 +14,7 @@
 
 - 📫 How to reach me **Anshidhaneefa710@gmail.com**
 
-- ⚡ Fun fact **I think i like Choclates While Coding**
+- ⚡ Fun fact **I think i like to eat Choclates While Coding**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
