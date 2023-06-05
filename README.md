@@ -6,7 +6,7 @@
 
 
 
-- 🌱 I’m currently learning **Nodejs || React || socket.io**
+- 🌱 I’m currently learning **|| React || Redux || NEXTJS **
 
 - 👨‍💻 Personal Portfolio : [https://anshidhaneef.github.io/portfolio/](https://anshidhaneef.github.io/portfolio/)
 
