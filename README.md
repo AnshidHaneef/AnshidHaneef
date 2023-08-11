@@ -8,11 +8,11 @@
 
 - 👨‍💻 Personal Portfolio : [https://anshidhaneef.github.io/portfolio/](https://anshidhaneef.github.io/portfolio/)
 
-- 💬 Ask me about **nodejs,javascript,react**
+- 💬 Ask me about **node js,javascript,react**
 
 - 📫 How to reach me **Anshidhaneefa710@gmail.com**
 
-- ⚡ Fun fact **I like to eat Choclates While Coding**
+- ⚡ Fun fact **I like to eat Chocolates While Coding**
 
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/https://www.buymeacoffee.com/Anshidhaneef"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="https://www.buymeacoffee.com/Anshidhaneef" /></a></p><br><br>
