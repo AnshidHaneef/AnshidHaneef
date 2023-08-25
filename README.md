@@ -8,7 +8,7 @@
 
 - 👨‍💻 Personal Portfolio : [https://anshidhaneef.github.io/portfolio/](https://anshidhaneef.github.io/portfolio/)
 
-- 💬 Ask me about **node js,javascript,react**
+- 💬 Ask me about **Node js,javascript,react**
 
 - 📫 How to reach me **Anshidhaneefa710@gmail.com**
 
