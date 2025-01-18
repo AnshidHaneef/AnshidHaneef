@@ -7,13 +7,14 @@ Welcome to my GitHub profile! I'm a passionate software developer with a love fo
 - 💼 I’m currently working as a Full Stack web Developer at Voylabs.
 - 👯 I’m looking to collaborate on interesting open-source projects.
 - 💬 Ask me about anything related to web development, software engineering, or technology in general.
-- 📫 How to reach me: anshidhaneefa70@gmail.com | https://www.linkedin.com/in/anshid-haneefa/
+- 📫 How to reach me: [Gmail](anshidhaneefa70@gmail.com) | [LinkedIn](https://www.linkedin.com/in/anshid-haneefa/)
 - ⚡ Fun fact: I have a passion for entrepreneurship and business, just as much as I do for coding.
 
 ## 🛠️ Technologies & Tools
 - Languages: JavaScript | Typescript
 - Frameworks: React | MongoDB | Nodejs | Nextjs | Redux | Expressjs | Mongoose 
 - Tools: Postman | Figma | Vscode | Npm | Webpack
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=anshidhaneef&label=Profile%20views&color=0e75b6&style=flat" alt="anshidhaneef" /> </p>
 
 ## 📈 GitHub Stats
 ![Anshid Haneef's GitHub stats](https://github-readme-stats.vercel.app/api?username=AnshidHaneef&show_icons=true&theme=radical)
